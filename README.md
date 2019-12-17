@@ -1,8 +1,6 @@
 # Speech Emotion Recognition
 In this projet we'll classify speech emotion uttered from multiple persons with different languages.
-%
- // Abdoulaye
-%
+
 ## STEPS
 - Data collection sources
 - Features extractions using Librosa
